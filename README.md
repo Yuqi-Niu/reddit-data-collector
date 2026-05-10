@@ -29,7 +29,6 @@ This project is designed for:
 
 ```text
 reddit-data-collector/
-├── .venv/
 ├── reddit_collector.py
 ├── config.py
 ├── requirements.txt
